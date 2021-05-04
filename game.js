@@ -247,7 +247,7 @@ window.onload = function () {
     }
     // when the player winw the game
     if (won) {
-      winningMessage.text = "TO THE NEXT LEVEL!";
+      winningMessage.text = "ДО НАСТУПНОГО РІВНЯ!";
 
     }
 
