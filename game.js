@@ -17,11 +17,11 @@ function addItems() {
   items = game.add.physicsGroup();
   createItem(575, 400, 'fish');
   createItem(365, 400, 'fruits');
-  createItem(225, 500, 'milk');
-  createItem(295, 500, 'water');
+  createItem(220, 500, 'milk');
+  createItem(280, 500, 'water');
   createItem(365, 500, 'nofastfood');
-  createItem(435, 500, 'meat');
-  createItem(505, 500, 'vagetables');
+  createItem(445, 500, 'meat');
+  createItem(500, 500, 'vagetables');
   createItem(575, 500, 'nodrinking');
 
   createItem(200, 132, 'nosmoke');
@@ -37,10 +37,10 @@ function addItems() {
 
   createItem(400, 120, 'new');
   createItem(470, 120, 'dryer');
-  createItem(540, 120, 'clothes');
+  createItem(530, 120, 'clothes');
   createItem(610, 120, 'nocovid');
   createItem(610, 70, 'gadget');
-  createItem(680, 120, 'money');
+  createItem(690, 120, 'money');
   createItem(750, 120, 'cards');
 
 }
