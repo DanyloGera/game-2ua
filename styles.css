@@ -83,11 +83,11 @@ max-width: 800px;
 }
 
 .callout-header {
-  padding: 25px 15px;
-  background: #555;
-  font-size: 40px;
-  color: white;
-  text-align: center;
+  padding: 25px 0;
+      background: #555;
+      font-size: 26pt;
+      color: white;
+      text-align: center;
 
 }
 
