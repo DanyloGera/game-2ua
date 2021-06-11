@@ -78,7 +78,8 @@ html {
 }
 .callout {
   position: fixed;
-    width: 50%;
+  width: 55%;
+  top: 2%;
 }
 
 .callout-header {
