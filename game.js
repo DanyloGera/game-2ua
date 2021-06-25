@@ -150,12 +150,12 @@ window.onload = function () {
     game.scale.pageAlignHorizontally = true;
     game.scale.pageAlignVertically = true;
     // game.stage.backgroundColor = '#5db1ad';
-    game.load.image('background', 'background.png');
+    game.load.image('background', './img/background.png');
 
     //Load images
-    game.load.image('platform', 'platform_1.png');
-    game.load.image('platform2', 'platform_2.png');
-    game.load.image('platform3', 'platform_3.png');
+    game.load.image('platform', './img/platform_1.png');
+    game.load.image('platform2', './img/platform_2.png');
+    game.load.image('platform3', './img/platform_3.png');
     //stairs
     game.load.image('stairs', 'stairs/stairs1.1.png');
     game.load.image('stairs1', 'stairs/stairs1.2.png');
